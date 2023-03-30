@@ -1,3 +1,7 @@
+
+import React from "react";
+
+import ReactDOM  from "react-dom/client";
 /*
 
 <div id = "babaji">
@@ -33,7 +37,7 @@ const parent = React.createElement(
          React.createElement("h3",{id:"Naman"},"Naman is my name")
     ),
     React.createElement("div",{id:"Buaji"},
-        React.createElement("h1",{},"Abha Buaji")
+        React.createElement("h1",{},"Deepa Bua")
     )]
 );
 const root = ReactDOM.createRoot(document.getElementById("root"));
